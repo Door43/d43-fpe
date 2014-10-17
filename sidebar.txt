@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fpe:home|Door43 (fpe)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fpe|d43-fpe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fpe/archive/master.zip|d43-fpe.zip]]
+
+**Recent Changes**
+{{changes>ns = fpe}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fpe|Ethnologue data]]
+
